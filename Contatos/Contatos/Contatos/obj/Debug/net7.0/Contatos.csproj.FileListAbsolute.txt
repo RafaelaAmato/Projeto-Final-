@@ -1,0 +1,70 @@
+/home/vitorhwm/Área de Trabalho/Contatos/Contatos/bin/Debug/net7.0/Contatos
+/home/vitorhwm/Área de Trabalho/Contatos/Contatos/bin/Debug/net7.0/Contatos.deps.json
+/home/vitorhwm/Área de Trabalho/Contatos/Contatos/bin/Debug/net7.0/Contatos.runtimeconfig.json
+/home/vitorhwm/Área de Trabalho/Contatos/Contatos/bin/Debug/net7.0/Contatos.dll
+/home/vitorhwm/Área de Trabalho/Contatos/Contatos/bin/Debug/net7.0/Contatos.pdb
+/home/vitorhwm/Área de Trabalho/Contatos/Contatos/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/home/vitorhwm/Área de Trabalho/Contatos/Contatos/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/vitorhwm/Área de Trabalho/Contatos/Contatos/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/vitorhwm/Área de Trabalho/Contatos/Contatos/bin/Debug/net7.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/vitorhwm/Área de Trabalho/Contatos/Contatos/bin/Debug/net7.0/Microsoft.Extensions.Caching.Memory.dll
+/home/vitorhwm/Área de Trabalho/Contatos/Contatos/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/vitorhwm/Área de Trabalho/Contatos/Contatos/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+/home/vitorhwm/Área de Trabalho/Contatos/Contatos/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/vitorhwm/Área de Trabalho/Contatos/Contatos/bin/Debug/net7.0/Microsoft.Extensions.Logging.dll
+/home/vitorhwm/Área de Trabalho/Contatos/Contatos/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/vitorhwm/Área de Trabalho/Contatos/Contatos/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/home/vitorhwm/Área de Trabalho/Contatos/Contatos/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+/home/vitorhwm/Área de Trabalho/Contatos/Contatos/bin/Debug/net7.0/MySqlConnector.dll
+/home/vitorhwm/Área de Trabalho/Contatos/Contatos/bin/Debug/net7.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/vitorhwm/Área de Trabalho/Contatos/Contatos/obj/Debug/net7.0/Contatos.csproj.AssemblyReference.cache
+/home/vitorhwm/Área de Trabalho/Contatos/Contatos/obj/Debug/net7.0/Contatos.GeneratedMSBuildEditorConfig.editorconfig
+/home/vitorhwm/Área de Trabalho/Contatos/Contatos/obj/Debug/net7.0/Contatos.AssemblyInfoInputs.cache
+/home/vitorhwm/Área de Trabalho/Contatos/Contatos/obj/Debug/net7.0/Contatos.AssemblyInfo.cs
+/home/vitorhwm/Área de Trabalho/Contatos/Contatos/obj/Debug/net7.0/Contatos.csproj.CoreCompileInputs.cache
+/home/vitorhwm/Área de Trabalho/Contatos/Contatos/obj/Debug/net7.0/Contatos.csproj.CopyComplete
+/home/vitorhwm/Área de Trabalho/Contatos/Contatos/obj/Debug/net7.0/Contatos.dll
+/home/vitorhwm/Área de Trabalho/Contatos/Contatos/obj/Debug/net7.0/refint/Contatos.dll
+/home/vitorhwm/Área de Trabalho/Contatos/Contatos/obj/Debug/net7.0/Contatos.pdb
+/home/vitorhwm/Área de Trabalho/Contatos/Contatos/obj/Debug/net7.0/Contatos.genruntimeconfig.cache
+/home/vitorhwm/Área de Trabalho/Contatos/Contatos/obj/Debug/net7.0/ref/Contatos.dll
+/home/vitorhwm/Área de Trabalho/Contatos/Contatos/bin/Debug/net7.0/Humanizer.dll
+/home/vitorhwm/Área de Trabalho/Contatos/Contatos/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/vitorhwm/Área de Trabalho/Contatos/Contatos/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/home/vitorhwm/Área de Trabalho/Contatos/Contatos/bin/Debug/net7.0/Mono.TextTemplating.dll
+/home/vitorhwm/Área de Trabalho/Contatos/Contatos/bin/Debug/net7.0/System.CodeDom.dll
+C:\Users\rafae\Downloads\Contatos\Contatos\Contatos\bin\Debug\net7.0\Contatos.exe
+C:\Users\rafae\Downloads\Contatos\Contatos\Contatos\bin\Debug\net7.0\Contatos.deps.json
+C:\Users\rafae\Downloads\Contatos\Contatos\Contatos\bin\Debug\net7.0\Contatos.runtimeconfig.json
+C:\Users\rafae\Downloads\Contatos\Contatos\Contatos\bin\Debug\net7.0\Contatos.dll
+C:\Users\rafae\Downloads\Contatos\Contatos\Contatos\bin\Debug\net7.0\Contatos.pdb
+C:\Users\rafae\Downloads\Contatos\Contatos\Contatos\bin\Debug\net7.0\Humanizer.dll
+C:\Users\rafae\Downloads\Contatos\Contatos\Contatos\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rafae\Downloads\Contatos\Contatos\Contatos\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rafae\Downloads\Contatos\Contatos\Contatos\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rafae\Downloads\Contatos\Contatos\Contatos\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rafae\Downloads\Contatos\Contatos\Contatos\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\rafae\Downloads\Contatos\Contatos\Contatos\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rafae\Downloads\Contatos\Contatos\Contatos\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\rafae\Downloads\Contatos\Contatos\Contatos\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rafae\Downloads\Contatos\Contatos\Contatos\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rafae\Downloads\Contatos\Contatos\Contatos\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\rafae\Downloads\Contatos\Contatos\Contatos\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\rafae\Downloads\Contatos\Contatos\Contatos\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rafae\Downloads\Contatos\Contatos\Contatos\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\rafae\Downloads\Contatos\Contatos\Contatos\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\rafae\Downloads\Contatos\Contatos\Contatos\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\rafae\Downloads\Contatos\Contatos\Contatos\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\rafae\Downloads\Contatos\Contatos\Contatos\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\rafae\Downloads\Contatos\Contatos\Contatos\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\rafae\Downloads\Contatos\Contatos\Contatos\obj\Debug\net7.0\Contatos.csproj.AssemblyReference.cache
+C:\Users\rafae\Downloads\Contatos\Contatos\Contatos\obj\Debug\net7.0\Contatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\Downloads\Contatos\Contatos\Contatos\obj\Debug\net7.0\Contatos.AssemblyInfoInputs.cache
+C:\Users\rafae\Downloads\Contatos\Contatos\Contatos\obj\Debug\net7.0\Contatos.AssemblyInfo.cs
+C:\Users\rafae\Downloads\Contatos\Contatos\Contatos\obj\Debug\net7.0\Contatos.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Downloads\Contatos\Contatos\Contatos\obj\Debug\net7.0\Contatos.csproj.CopyComplete
+C:\Users\rafae\Downloads\Contatos\Contatos\Contatos\obj\Debug\net7.0\Contatos.dll
+C:\Users\rafae\Downloads\Contatos\Contatos\Contatos\obj\Debug\net7.0\refint\Contatos.dll
+C:\Users\rafae\Downloads\Contatos\Contatos\Contatos\obj\Debug\net7.0\Contatos.pdb
+C:\Users\rafae\Downloads\Contatos\Contatos\Contatos\obj\Debug\net7.0\Contatos.genruntimeconfig.cache
+C:\Users\rafae\Downloads\Contatos\Contatos\Contatos\obj\Debug\net7.0\ref\Contatos.dll
